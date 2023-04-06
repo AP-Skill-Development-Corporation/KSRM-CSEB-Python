@@ -12,4 +12,9 @@ Python For First Years CSE-B
   - Jupyter Notebook Installation and Overview of it
   - Variables and assignment types with sample example on each
   - Data types,Type method,Typecasting,input and output formatting with sample example on each
-  - Operators ad its types with sample example
+  - Operators and its types with sample example
+
+## Day-03(06-04-2023):
+  - Keywords explanation
+  - Conditional Statements [if,if-else,nested if and elif] with sample examples on each
+  - Loops explanation, for,range with 3 parameters explanation with sample example on each
