@@ -5,4 +5,83 @@ Day-03[06-04-2023]:
 	Keywords
 	Conditional statements with sample examples on each
 	Loops explanation
-	Range explanation 
+	Range explanation
+
+Task:
+=====
+	Concepts:
+	=========
+		- Nested Loops
+		- Jumping Statements
+		- Function types
+		- User Defined Function types
+		- Argument Types
+		- All Data Structures Overview [List,Tuple,Set,Dictionary and String]
+
+	Problems:
+	=========
+	1.
+		Input:
+			3
+			5
+		Output:
+			3 x 01 = 03
+			3 x 02 = 06
+			3 x 03 = 09
+			3 x 04 = 12
+			3 x 05 = 15
+
+		Input:
+			5
+			4
+		Output:
+			5 x 01 = 05
+			5 x 02 = 10
+			5 x 03 = 15
+			5 x 04 = 20
+
+	2.
+		Input:
+			2
+			4
+			11
+		Output:
+			2 x 04 = 08
+			2 x 05 = 10
+			2 x 06 = 12
+			2 x 07 = 14
+			2 x 08 = 16
+			2 x 09 = 18
+			2 x 10 = 20
+
+		Input:
+			8
+			3
+			5
+		Output:
+			8 x 03 = 24
+			8 x 04 = 08
+	
+	3.
+		Input:
+			4
+			3
+			5
+			8
+		Output:
+			4 x 05 = 20 	3 x 08 = 24
+			4 x 06 = 24 	3 x 07 = 21
+			4 x 07 = 28 	3 x 06 = 18
+			4 x 08 = 32 	3 x 05 = 15
+
+		Input:
+			5
+			2
+			2
+			6
+		Output:
+			5 x 02 = 10 	2 x 06 = 12
+			5 x 03 = 15 	2 x 05 = 10
+			5 x 04 = 20 	2 x 04 = 08
+			5 x 05 = 25 	2 x 03 = 06
+			5 x 06 = 30 	2 x 02 = 02
