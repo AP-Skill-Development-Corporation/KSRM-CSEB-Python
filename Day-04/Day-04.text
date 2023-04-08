@@ -1,0 +1,44 @@
+Day-4[08-04-2023]:
+==================
+	Good Morning to All...
+
+	While Explanation with example
+	Jumping statements
+	Inner Loop
+	Function types
+	User Defined Function Types with sample example on each
+	Function Argument Types [Default,Keyword,Required] Explanation with example
+
+
+Task:
+=====
+	Concepts:
+	---------
+		- All Data Structures[list,tuple,set,string and dictionary]Overview with their methods
+		- Study Previous topics from Day-01 to still now for Exam
+
+	Task:
+	-----
+		- Solve Day-03 Problems if not completed
+		
+		1. Implement by using functions
+
+			Input:
+				158654
+			Output:
+				Even numbers are: 8 6 4
+				Odd numbers are: 1 5 5
+				Even Sum is: 18
+				Odd Sum is: 11
+				Even numbers Count is: 3
+				Odd numbers Count is: 3
+
+			Input:
+				18965
+			Output:
+				Even numbers are: 8 6
+				Odd numbers are: 1 9 5
+				Even Sum is: 14
+				Odd Sum is: 15
+				Even numbers Count is: 2
+				Odd numbers Count is: 3
