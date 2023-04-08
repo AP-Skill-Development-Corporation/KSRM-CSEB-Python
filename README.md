@@ -18,3 +18,10 @@ Python For First Years CSE-B
   - Keywords explanation
   - Conditional Statements [if,if-else,nested if and elif] with sample examples on each
   - Loops explanation, for,range with 3 parameters explanation with sample example on each
+
+## Day-04(08-04-2023):
+  - While explanation with sample example
+  - Jumping Statements and Inner Loops with sample example on each
+  - Function and its types, Userdefined function types with sample example on each
+  - Function Arguments (required,keyword and default) with sample example on each
+  
