@@ -25,3 +25,7 @@ Python For First Years CSE-B
   - Function and its types, Userdefined function types with sample example on each
   - Function Arguments (required,keyword and default) with sample example on each
   
+## Day-05(10-04-2023):
+  - While example with functions concept
+  - Data Structures Overview
+  - Data Structures methods for [list,tuple,set,dictionary and string(some are pending)] with sample example on each
